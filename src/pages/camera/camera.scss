@@ -1,0 +1,9 @@
+page-camera {
+    //giving th epriperties to the background picture of this page
+    .bg-image{
+        background-image: url('../assets/images/camera.JPG');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+    }
+}
